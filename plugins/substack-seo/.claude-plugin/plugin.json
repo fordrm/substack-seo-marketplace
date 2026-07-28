@@ -1,0 +1,8 @@
+{
+  "name": "substack-seo",
+      "description": "Audit, write, and apply SEO titles/descriptions across every post on a Substack publication, grounded in the actual post text and verified via the API.",
+      "version": "1.0.0",
+      "author": {
+    "name": "Robert Ford"
+      }
+}
